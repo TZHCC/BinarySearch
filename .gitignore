@@ -11,7 +11,8 @@
 *.iml
 *.iws
 .idea/
-
+out/
+.gitignore/
 # Maven
 target/
 
