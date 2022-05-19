@@ -10,5 +10,8 @@ public class gitTest {
         System.out.println("hhhhh");
         System.out.println("hhhhh master ---- ");
         System.out.println("hhhhh hot-fix");
+        
+        
+        github和gitee同步测试
     }
 }
